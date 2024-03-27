@@ -1,2 +1,2 @@
-# Customer-Churn-Classification
+# Bank Customer Churn Classification
 The "Bank Customer Churn Prediction" project likely involves analyzing bank customer data to predict which customers are more likely to leave (churn) the bank. This can involve statistical analysis and machine learning to identify patterns in customer behavior, demographics, account details, and transaction history that correlate with churn. The goal is to help the bank take proactive steps to retain customers by understanding and addressing the factors contributing to customer churn. 
